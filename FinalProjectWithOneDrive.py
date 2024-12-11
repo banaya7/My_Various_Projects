@@ -1,8 +1,4 @@
-Python 3.12.3 (v3.12.3:f6650f9ad7, Apr  9 2024, 08:18:48) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> WARNING: The system preference "Prefer tabs when opening documents" is set to
-"Always". This will cause various problems with IDLE. For the best experience,
-change this setting when running IDLE (via System Preferences -> Dock).
+
 import asyncio
 ... from kasa import SmartPlug
 ... from datetime import datetime
